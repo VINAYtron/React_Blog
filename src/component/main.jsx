@@ -17,7 +17,8 @@ const Main = () => {
   return (
     <>
       <div className="headName">
-        <h1>The Siren</h1>
+        <h1 className="blog-head1">The</h1>
+        <h1 className="blog-head2">Siren</h1>
       </div>
       <BrowserRouter>
         <NavBar />

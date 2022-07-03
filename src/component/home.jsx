@@ -18,7 +18,7 @@ const Home = () => {
           <Link to="/fitness/flexibility">
             <img
               className="headImg"
-              src="https://post.healthline.com/wp-content/uploads/2019/10/1296x728-body1-1296x728.jpg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTenclsZ_pObeKMNVUG83HZCPT1Y9kvkHhA&usqp=CAU"
               alt="Punjab"
             />
           </Link>
@@ -75,9 +75,6 @@ const Home = () => {
               controls the amount of oxygen that can make it to the muscles to
               help them burn fuel and move.
             </p>
-            <span>
-              <b>Fitness</b>March 23,2020
-            </span>
           </Link>
         </div>
         <div className="latestitem5">
@@ -91,9 +88,6 @@ const Home = () => {
               drama film produced by Rakeysh Omprakash Mehra, Farhan Akhtar and
               Ritesh Sidhwani. Directed by Mehra
             </p>
-            <span>
-              <b>Bollywood:</b>March 23,2020
-            </span>
           </Link>
         </div>
         <div className="latestitem5">
@@ -108,9 +102,6 @@ const Home = () => {
               Paneer are marinated in a spiced yogurt-based marinade, arranged
               on skewers and grilled in the oven.
             </p>
-            <span>
-              <b>Food:</b>March 23,2020
-            </span>
           </Link>
         </div>
       </div>
@@ -142,7 +133,6 @@ const Home = () => {
                 five waters. These five rivers named Beas, Satluj, Ravi, Chenab
                 and Jhelum. Beas, and Satluj
               </p>
-              <b>Tourism:</b>July 12,2020
             </div>
             <div className="nineA item">
               <Link to="/fitness/flexibility">
@@ -160,7 +150,6 @@ const Home = () => {
                 Good flexibility can improve range of motion and allow for
                 better, more functional movement.
               </p>
-              <b>Fitness</b>July 12,2020
             </div>
             <div className="nineA item">
               <Link to="/technology/cryptography">
@@ -179,7 +168,6 @@ const Home = () => {
                 encryption, has been used for centuries to prevent handwritten
                 messages from being read by unintended recipients
               </p>
-              <b>Technology</b>July 12,2020
             </div>
             <div className="nineA item">
               <Link to="/bollywood/Saina">
@@ -198,7 +186,6 @@ const Home = () => {
                 player Saina Nehwal, the film talks about her journey, her
                 achievements and the hardships she faced.
               </p>
-              <b>Bollywood:</b>July 12,2020
             </div>
             <div className="nineA item">
               <Link to="/food/malaiKofta">
@@ -218,7 +205,6 @@ const Home = () => {
                 paneer in a rich and creamy mild gravy made with sweet onions
                 and tomatoes.
               </p>
-              <b>Food:</b>July 12,2020
             </div>
           </div>
           <div className="bBox">
@@ -234,9 +220,8 @@ const Home = () => {
             <div className="fouthA item">
               <h6>Madhya Pradesh: The Heart of India</h6>
               <p>
-                <span>
-                  <b>Tourism:</b>Febuary 21,2020
-                </span>
+                Madhya Pradesh has been aptly called the ‘Heart of India’.
+                Remember way back in the 2000s{" "}
               </p>
             </div>
             <div className="thirdA">
@@ -250,10 +235,10 @@ const Home = () => {
             </div>
             <div className="fouthA item">
               <h5>Balance</h5>
-
-              <span>
-                <b>Fitness</b>Febuary 21,2020
-              </span>
+              <p>
+                The Importance of Balance Training The Importance of Balance
+                Training Adding Some Balance To Your Exercise Regimen Balance is
+              </p>
             </div>
             <div className="nineA item">
               <Link to="/technology/crptography">
@@ -266,7 +251,10 @@ const Home = () => {
             </div>
             <div className="tenA item">
               <h5>Cryptography</h5>
-              <b>Technology</b>July 12,2020
+              <p>
+                Cryptography is the science of protecting information by
+                transforming it
+              </p>
             </div>
             <div className="thirdA item">
               <Link to="/bollywood/finalTruth">
@@ -279,11 +267,6 @@ const Home = () => {
             </div>
             <div className="fouthA item">
               <h6>Aayush Sharma in antim: the Final Truth</h6>
-              <p>
-                <span>
-                  <b>Bollywood:</b>Febuary 21,2020
-                </span>
-              </p>
             </div>
             <div className="nineA item">
               <Link to="/food/malaiKofta">
@@ -296,15 +279,13 @@ const Home = () => {
             </div>
             <div className="tenA item">
               <h6>Malai Kofta</h6>
-
               <p>
-                <span>
-                  <b>Food:</b>July 12,2020
-                </span>
+                By Dassana Amit Last Updated: June 4, 2021 Vegetarian 4.82 from
+                93 vote
               </p>
             </div>
             <div className="Adv">
-              <p>Advertistment</p>
+              <p style={{textAlign: "center"}}>Advertistment</p>  
             </div>
           </div>
         </div>
