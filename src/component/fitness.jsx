@@ -32,7 +32,6 @@ const Fitness = () => {
               muscles that cause arm to addapt and get stronger simila to the
               way aerotic condition strengthens your hearts
             </p>
-            <b>Fitness:</b>January 24,2020
           </div>
           <div className="thirdA">
             <Link to="/fitness/balance">
@@ -51,9 +50,6 @@ const Fitness = () => {
               the ability to control your body’s position, whether stationary
               (i.e. a complex yoga pose) or while moving (e.g. skiing).
             </p>
-            <span>
-              <b>Fitness</b>Febuary 21,2020
-            </span>
           </div>
           <div className="fifthA item">
             <Link to="/fitness/aerobic">
@@ -73,9 +69,6 @@ const Fitness = () => {
               controls the amount of oxygen that can make it to the muscles to
               help them burn fuel and move.
             </p>
-            <span>
-              <b>Fitness</b>March 23,2020
-            </span>
           </div>
           <div className="sevenA item">
             <Link to="/fitness/sprint">
@@ -93,7 +86,6 @@ const Fitness = () => {
               training session. You can customize them based on time, fitness
               level, intensity, and the space you have available for exercise
             </p>
-            <b>Fitness:</b>April 21,2020
           </div>
           <div className="nineA item">
             <Link to="/fitness/flexibility">
@@ -111,7 +103,6 @@ const Fitness = () => {
               Good flexibility can improve range of motion and allow for better,
               more functional movement.
             </p>
-            <b>Fitness</b>July 12,2020
           </div>
         </div>
         <div className="bBox">
@@ -126,7 +117,6 @@ const Fitness = () => {
           </div>
           <div className="secondA item ">
             <h5>Sweat now shine later</h5>
-            <b>Fitness:</b>January 24,2020
           </div>
           <div className="thirdA">
             <Link to="/fitness/balance">
@@ -139,10 +129,6 @@ const Fitness = () => {
           </div>
           <div className="fouthA item">
             <h5>Balance</h5>
-
-            <span>
-              <b>Fitness</b>Febuary 21,2020
-            </span>
           </div>
           <div className="fifthA item">
             <Link to="/fitness/aerobic">
@@ -155,10 +141,6 @@ const Fitness = () => {
           </div>
           <div className="sixthA item">
             <h5>Aerobic</h5>
-
-            <span>
-              <b>Fitness</b>March 23,2020
-            </span>
           </div>
           <div className="sevenA item">
             <Link to="/fitness/sprint">
@@ -171,7 +153,6 @@ const Fitness = () => {
           </div>
           <div className="eightA item">
             <h5>Sprint</h5>
-            <b>Fitness:</b>April 21,2020
           </div>
           <div className="nineA item">
             <Link to="/fitness/flexibility">
@@ -184,10 +165,9 @@ const Fitness = () => {
           </div>
           <div className="tenA item">
             <h5>Flexibility</h5>
-            <b>Fitness</b>July 12,2020
           </div>
           <div className="Adv">
-            <p>Advertistment</p>
+            <p style={{ textAlign: "center" }}>Advertistment</p>
           </div>
         </div>
       </div>

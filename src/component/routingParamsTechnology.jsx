@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom";
 
 const RoutingParamsTechnology = () => {
   const params = useParams();
-  console.log(params);
 
   const getDynamicData = () => {
     const { tech } = params;

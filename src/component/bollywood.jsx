@@ -32,7 +32,6 @@ const BollyWood = () => {
               combat terrorists. The film has reportedly collected an
               approximate of ₹12 crore in the first five days of its release.
             </p>
-            <b>Bollywood:</b>January 24,2020
           </div>
           <div className="thirdA">
             <Link to="/bollywood/finalTruth">
@@ -50,9 +49,6 @@ const BollyWood = () => {
               Voluptates ullam omnis eaque molestiae rerum, illo perferendis at
               quo error. Corporis adipisci voluptatibus voluptates deleniti
             </p>
-            <span>
-              <b>Bollywood:</b>Febuary 21,2020
-            </span>
           </div>
           <div className="fifthA item">
             <Link to="/bollywood/toofaan">
@@ -73,9 +69,6 @@ const BollyWood = () => {
               level boxer alongside Mrunal Thakur and Paresh Rawal, and
               premiered on 16 July 2021 on Amazon Prime Video.
             </p>
-            <span>
-              <b>Bollywood:</b>March 23,2020
-            </span>
           </div>
           <div className="sevenA item">
             <Link to="/bollywood/theRise">
@@ -95,7 +88,6 @@ const BollyWood = () => {
               fact, the Sukumar-directorial recently went past the Rs 100-crore
               club in Hindi
             </p>
-            <b>Bollywood:</b>April 21,2020
           </div>
           <div className="nineA item">
             <Link to="/bollywood/Saina">
@@ -114,7 +106,6 @@ const BollyWood = () => {
               player Saina Nehwal, the film talks about her journey, her
               achievements and the hardships she faced.
             </p>
-            <b>Bollywood:</b>July 12,2020
           </div>
         </div>
         <div className="bBox">
@@ -129,12 +120,6 @@ const BollyWood = () => {
           </div>
           <div className="secondA item">
             <h6>John Abhram in Attack</h6>
-
-            <p>
-              <span>
-                <b>Bollywood:</b>January 24,2020
-              </span>
-            </p>
           </div>
           <div className="thirdA item">
             <Link to="/bollywood/finalTruth">
@@ -147,11 +132,6 @@ const BollyWood = () => {
           </div>
           <div className="fouthA item">
             <h6>Aayush Sharma in antim: the Final Truth</h6>
-            <p>
-              <span>
-                <b>Bollywood:</b>Febuary 21,2020
-              </span>
-            </p>
           </div>
           <div className="fifthA item">
             <Link to="/bollywood/toofaan">
@@ -164,12 +144,6 @@ const BollyWood = () => {
           </div>
           <div className="sixthA item">
             <h6>Faran Aktar in Toofaan</h6>
-
-            <p>
-              <span>
-                <b>Bollywood:</b>March 23,2020
-              </span>
-            </p>
           </div>
           <div className="sevenA item">
             <Link to="/bollywood/theRise">
@@ -182,12 +156,6 @@ const BollyWood = () => {
           </div>
           <div className="eightA item">
             <h6>Allu Arjun in Pushpa: the rise</h6>
-
-            <p>
-              <span>
-                <b>Bollywood:</b>April 21,2020
-              </span>
-            </p>
           </div>
           <div className="nineA item">
             <Link to="/bollywood/Saina">
@@ -200,15 +168,9 @@ const BollyWood = () => {
           </div>
           <div className="tenA item">
             <h6>Parineeti Chopra in Saina</h6>
-
-            <p>
-              <span>
-                <b>Bollywood:</b>July 12,2020
-              </span>
-            </p>
           </div>
           <div className="Adv">
-            <p>Advertistment</p>
+            <p style={{ textAlign: "center" }}>Advertistment</p>
           </div>
         </div>
       </div>

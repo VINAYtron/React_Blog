@@ -31,7 +31,6 @@ const Tourism = () => {
               have landed at the right place to make this tropical vacation
               happen! Famously known as the God’s Own Country
             </p>
-            <b>Tourism:</b>January 24,2020
           </div>
           <div className="thirdA">
             <Link to="/tourism/madhyaPradesh">
@@ -48,9 +47,6 @@ const Tourism = () => {
               Madhya Pradesh, the heart of Incredible India, is embellished with
               culturally rich ancient heritage of India.
             </p>
-            <span>
-              <b>Tourism:</b>Febuary 21,2020
-            </span>
           </div>
           <div className="fifthA item">
             <Link to="/tourism/karnataka">
@@ -69,9 +65,6 @@ const Tourism = () => {
               November brings with itself a mythical allure that cannot be
               missed
             </p>
-            <span>
-              <b>Tourism:</b>March 23,2020
-            </span>
           </div>
           <div className="sevenA item">
             <Link to="/tourism/sikkim">
@@ -90,7 +83,6 @@ const Tourism = () => {
               the east, Province No. 1 of Nepal in the west, and West Bengal in
               the south.
             </p>
-            <b>Tourism:</b>April 21,2020
           </div>
           <div className="nineA item">
             <Link to="/tourism/punjab">
@@ -109,7 +101,6 @@ const Tourism = () => {
               five waters. These five rivers named Beas, Satluj, Ravi, Chenab
               and Jhelum. Beas, and Satluj
             </p>
-            <b>Tourism:</b>July 12,2020
           </div>
         </div>
         <div className="bBox">
@@ -124,12 +115,6 @@ const Tourism = () => {
           </div>
           <div className="secondA item">
             <h6>Kerela: God's Own Country</h6>
-
-            <p>
-              <span>
-                <b>Tourism:</b>January 24,2020
-              </span>
-            </p>
           </div>
           <div className="thirdA item">
             <Link to="/tourism/madhyaPradesh">
@@ -142,11 +127,6 @@ const Tourism = () => {
           </div>
           <div className="fouthA item">
             <h6>Madhya Pradesh: The Heart of India</h6>
-            <p>
-              <span>
-                <b>Tourism:</b>Febuary 21,2020
-              </span>
-            </p>
           </div>
           <div className="fifthA item">
             <Link to="/tourism/karnataka">
@@ -159,12 +139,6 @@ const Tourism = () => {
           </div>
           <div className="sixthA item">
             <h6>Karnataka: One State Many World</h6>
-
-            <p>
-              <span>
-                <b>Tourism:</b>March 23,2020
-              </span>
-            </p>
           </div>
           <div className="sevenA item">
             <Link to="/tourism/sikkim">
@@ -177,12 +151,6 @@ const Tourism = () => {
           </div>
           <div className="eightA item">
             <h6>Sikkim: Small But Beautiful</h6>
-
-            <p>
-              <span>
-                <b>Tourism:</b>April 21,2020
-              </span>
-            </p>
           </div>
           <div className="nineA item">
             <Link to="/tourism/punjab">
@@ -195,15 +163,9 @@ const Tourism = () => {
           </div>
           <div className="tenA item">
             <h6>Punjab: India Begin Here</h6>
-
-            <p>
-              <span>
-                <b>Tourism:</b>July 12,2020
-              </span>
-            </p>
           </div>
           <div className="Adv">
-            <p>Advertistment</p>
+            <p style={{ textAlign: "center" }}>Advertistment</p>
           </div>
         </div>
       </div>

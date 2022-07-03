@@ -33,7 +33,6 @@ const Technology = () => {
               unauthorized access to data centers and other computerized
               systems.
             </p>
-            <b>Technology:</b>January 24,2020
           </div>
           <div className="thirdA">
             <Link to="/technology/blockchain">
@@ -52,9 +51,6 @@ const Technology = () => {
               chronological order and are linked and secured by cryptographic
               proofs.
             </p>
-            <span>
-              <b>Technology</b>Febuary 21,2020
-            </span>
           </div>
           <div className="fifthA item">
             <Link to="/technology/artificialIntelligence">
@@ -74,9 +70,6 @@ const Technology = () => {
               Artificial Intelligence is related to the similar task of using
               computers to understand human intelligence.
             </p>
-            <span>
-              <b>Technology</b>March 23,2020
-            </span>
           </div>
           <div className="sevenA item">
             <Link to="/technology/internetofthings">
@@ -96,7 +89,6 @@ const Technology = () => {
               devices and systems over the Internet or other communications
               networks.
             </p>
-            <b>Technology:</b>April 21,2020
           </div>
           <div className="nineA item">
             <Link to="/technology/cryptography">
@@ -115,7 +107,6 @@ const Technology = () => {
               encryption, has been used for centuries to prevent handwritten
               messages from being read by unintended recipients
             </p>
-            <b>Technology</b>July 12,2020
           </div>
         </div>
         <div className="bBox">
@@ -130,7 +121,6 @@ const Technology = () => {
           </div>
           <div className="secondA item ">
             <h5>CyberSecurity</h5>
-            <b>Technology:</b>January 24,2020
           </div>
           <div className="thirdA">
             <Link to="/technology/blockchain">
@@ -143,10 +133,6 @@ const Technology = () => {
           </div>
           <div className="fouthA item">
             <h5>BlockChain</h5>
-
-            <span>
-              <b>Technology</b>Febuary 21,2020
-            </span>
           </div>
           <div className="fifthA item">
             <Link to="/technology/artificialIntelligence">
@@ -159,10 +145,6 @@ const Technology = () => {
           </div>
           <div className="sixthA item">
             <h6>Artificial Intelligence and Machine Learinig</h6>
-
-            <span>
-              <b>Technology</b>March 23,2020
-            </span>
           </div>
           <div className="sevenA item">
             <Link to="/technology/internetofthings">
@@ -188,10 +170,9 @@ const Technology = () => {
           </div>
           <div className="tenA item">
             <h5>Cryptography</h5>
-            <b>Technology</b>July 12,2020
           </div>
           <div className="Adv">
-            <p>Advertistment</p>
+            <p style={{ textAlign: "center" }}>Advertistment</p>
           </div>
         </div>
       </div>

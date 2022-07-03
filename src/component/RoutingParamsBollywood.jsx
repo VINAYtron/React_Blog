@@ -2,7 +2,6 @@ import React from "react";
 import { useParams } from "react-router-dom";
 const RoutingParamsBollywood = () => {
   const params = useParams();
-  console.log(params);
 
   const getDynamicData = () => {
     const { movie } = params;

@@ -31,7 +31,6 @@ const Food = () => {
               curry sauce with plain yogurt and cooked with tomatoes, spices,
               and more plain yogurt.
             </p>
-            <b>Food:</b>January 24,2020
           </div>
           <div className="thirdA">
             <Link to="/food/dosaMasala">
@@ -51,9 +50,6 @@ const Food = () => {
               style masala dosa, but with my step-by-step instructions and
               photos
             </p>
-            <span>
-              <b>Food:</b>Febuary 21,2020
-            </span>
           </div>
           <div className="fifthA item">
             <Link to="/food/paneerTikka">
@@ -72,9 +68,6 @@ const Food = () => {
               Paneer are marinated in a spiced yogurt-based marinade, arranged
               on skewers and grilled in the oven.
             </p>
-            <span>
-              <b>Food:</b>March 23,2020
-            </span>
           </div>
           <div className="sevenA item">
             <Link to="/food/maashBhaat">
@@ -93,7 +86,6 @@ const Food = () => {
               markets in the city. This plate of food puts a number of aspects
               about food I love generally in one place.
             </p>
-            <b>Food:</b>April 21,2020
           </div>
           <div className="nineA item">
             <Link to="/food/malaiKofta">
@@ -112,7 +104,6 @@ const Food = () => {
               Kofta is a delicious dish of fried balls of potato and paneer in a
               rich and creamy mild gravy made with sweet onions and tomatoes.
             </p>
-            <b>Food:</b>July 12,2020
           </div>
         </div>
         <div className="bBox">
@@ -127,12 +118,6 @@ const Food = () => {
           </div>
           <div className="secondA item">
             <h6>Chicken Tikka Masala</h6>
-
-            <p>
-              <span>
-                <b>Food:</b>January 24,2020
-              </span>
-            </p>
           </div>
           <div className="thirdA item">
             <Link to="/food/dosaMasala">
@@ -145,11 +130,6 @@ const Food = () => {
           </div>
           <div className="fouthA item">
             <h6>Dosa Masala</h6>
-            <p>
-              <span>
-                <b>Food:</b>Febuary 21,2020
-              </span>
-            </p>
           </div>
           <div className="fifthA item">
             <Link to="/food/paneerTikka">
@@ -162,12 +142,6 @@ const Food = () => {
           </div>
           <div className="sixthA item">
             <h6>Paneer Tikka</h6>
-
-            <p>
-              <span>
-                <b>Food:</b>March 23,2020
-              </span>
-            </p>
           </div>
           <div className="sevenA item">
             <Link to="/food/maashBhaat">
@@ -180,12 +154,6 @@ const Food = () => {
           </div>
           <div className="eightA item">
             <h6>Maash Bhaat</h6>
-
-            <p>
-              <span>
-                <b>Food:</b>April 21,2020
-              </span>
-            </p>
           </div>
           <div className="nineA item">
             <Link to="/food/malaiKofta">
@@ -198,15 +166,9 @@ const Food = () => {
           </div>
           <div className="tenA item">
             <h6>Malai Kofta</h6>
-
-            <p>
-              <span>
-                <b>Food:</b>July 12,2020
-              </span>
-            </p>
           </div>
           <div className="Adv">
-            <p>Advertistment</p>
+            <p style={{ textAlign: "center" }}>Advertistment</p>
           </div>
         </div>
       </div>

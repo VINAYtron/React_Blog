@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom";
 
 const RoutingParamsTourist = () => {
   const params = useParams();
-  console.log(params);
 
   const getDynamicData = () => {
     const { place } = params;
