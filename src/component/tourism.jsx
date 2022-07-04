@@ -9,7 +9,7 @@ const Tourism = () => {
           <h1>Tourism</h1>
         </div>
         <div className="headingofB">
-          <h1>Topic</h1>
+          <h1>Top Post</h1>
         </div>
         <div className="aBox">
           <div></div>

@@ -14,7 +14,7 @@
 .blog-head1 {
   color: white;
   background-color: black;
-  padding: 3px 15px;
+  padding: 10px 10px;
   border-radius: 5px;
   transform: rotate(-90deg);
 }
@@ -74,6 +74,8 @@ nav > ul {
   background-color: none;
   grid-row: 1/2;
   text-align: left;
+  border-bottom: 5px solid red;
+  width: 20%;
 }
 .headingofB {
   background-color: none;
